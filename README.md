@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Frank+Thomas.;Software+Developer;.....and+an+AI+connoisseur."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Frank+Thomas.;Software+Engineer;.....and+a+Kotlin+connoisseur."
 />
   
 <p>
